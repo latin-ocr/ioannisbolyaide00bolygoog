@@ -1,0 +1,39 @@
+WOLFGANGI BOLYAI
+ADDITAMENTUM AD APPENDICEM.
+
+Denique aliquid Auctori Appendices proprium, coronidis instar,
+addere ias sit: qui tamen ignoscat, siquid non acu eius tetigerim.
+
+Res breviter in eo consistit: formulae trigonometrioe sphaericae,
+in Appendice dicta ab axiomate XI. Encl. independenter demonstratae,
+cum formulis trz'gonometriue plenae conueniunt, si (modo statim
+dicendo) latero trianguli sphaerici reolio, rectilinei vero imaginario
+accipientum adeo ut quoad formulas trigonome·ricas planum ut sphaera
+imaginaria considerari possit, si pro reali illa accipiatur, in qua sin.R=1.
+
+Pro casu, si axioma Eucl. verum non fuerit, demonstratur (Appendix
+§. 30.) dari certum i, pro quo ibidem dictum I est =e (basi logarith·
+morum naturalium), atque pro hoc casu formulae trigonometriae planae
+quoque demonstrantur (ibidem §. 31.); et quidem ita, ut (iuxta §. 32,
+post VII, ibidem formulae et pro casu veritatis axiomatis dicti valeant;
+nempe si supponendo, quod imoo, limites valorum accipiantur, nimirum
+systema Euclidenm est quasi limes systematis antieuclidei (pro i« 00).
+Ponatur, pro casu existentis i, unitas zi, atque conceptus sinus eosi-
+nusque extendatur et ad arcus imaginarios; ita ut arcum sive realem
+
+sive imaginarium denotet p, dicatur
+
+ι(
+ἶ(
+
+ept'l‘i 4 ε-ρΥ-Ἷ)
+
+cosinus ipsius p, et
+
+—-1:-- (epi-*1 - e-pt'Tr)
+
+2 tf -1
+dicatur sinus ipsius p.
+
+ 
+

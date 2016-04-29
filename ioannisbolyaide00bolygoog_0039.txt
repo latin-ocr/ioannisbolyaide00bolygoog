@@ -1,0 +1,40 @@
+22 IOANNIS BOLYAI
+
+Potest hoc absque integratione quoque deduci.
+
+Aequatione e. g. circuli (ex §. 31, ΙΙΙ), rectae (ex §. 31, IL), sectio-
+nis coni (per praec.) expressis; poterunt areae quoque his lineis clausae
+exprimi.
+
+Palam est, superficiem t ad figuram planamp (in distantia q) ΙΙ lam
+esse adp in ratione potentiarum secundarum linearum homologarum,
+sive uti
+
+Porro computum soliditatis pari modo tractatum, facile patet duas
+integrationes requirere (scum et differentiale ipsum hic nonnisi per inte·
+grationem determinetur); et ante omnia solidum ap ettae complexu
+omniurn rectarum adp perpendicularium, fines ipsorum p, t connecten-
+tium, clausum quaerendum esse. Reperitur solidum istud (tarn per inte-
+
+grationem quam sine ea)
+
+1 ..37- -32, 1
+:ssew-e ’,Ι-Ι-ἷρᾳ.
+
+Superficies quoque corporum is S determinari possunt, nec non cur-
+vaturae, evolutae, evolventesque linearum qualiumvis Εέ. Ωιιοά curva-
+turam attinet; ea in S aut ipsius L est, aut per radium circuli, aut
+distantiam curvae ad rectam 11 1ae ab hac recta, determinatur; cume
+praecedentibus facile ostendi possit, praeter L, lineas circulares, ac rectae
+ΙΙ las, nullas in plano alias lineas uniformes dari.
+
+IV. Pro circulo est (uti in ΙΙΙ.)
+
+unde (per §. 30.) integrando fit
+&x=n2'²(eT-2÷e-T).
+
+Fig. 9· V. Pro area cobbo-:u (linea Lformi obzr, huic tila cb=y, ac
+rectis uc, bo=x clausa) est
+
+ 
+
